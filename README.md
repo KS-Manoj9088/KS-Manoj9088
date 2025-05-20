@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kolluru Sri Manoj kumar</h1>
 <h3 align="center">A passionate about Modern and Trending Tech Stacks...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-manoj908&label=Profile%20views&color=0e75b6&style=flat" alt="ks-manoj908" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KS-Manoj9088&label=Profile%20views&color=0e75b6&style=flat" alt="ks-manoj908" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ks-manoj908" alt="ks-manoj908" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KS-Manoj9088" alt="ks-manoj908" /></a> </p>
 
 - 🔭 I’m currently working on **WeChat and ECommerce Application**
 
