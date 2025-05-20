@@ -1,6 +1,6 @@
 <!-- Rainbow Wave Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=34F6D8&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=34F6D8&center=true&vCenter=true&width=500&lines= ;Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <!-- Floating Profile Image -->
